@@ -1,0 +1,12 @@
+{
+  "name": "molecular-parser",
+  "version": "1.0.0",
+  "description": "Parsed a molecule (string) and give details elements count as an object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damien Duvacher",
+  "homepage": "https://github.com/Dduvacher/molecular-parser",
+  "license": "ISC"
+}
