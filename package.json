@@ -1,5 +1,5 @@
 {
-  "name": "molecular-parser",
+  "name": "molecular-decomposer",
   "version": "1.0.0",
   "description": "Parsed a molecule (string) and give details elements count as an object.",
   "main": "./dist/index.js",
