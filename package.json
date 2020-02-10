@@ -7,7 +7,7 @@
     "build": "tsc",
     "prepare": "tsc",
     "version": "git add -A src",
-    "postversion": "git push && git push -tags"
+    "postversion": "git push && git push --tags"
   },
   "author": "Damien Duvacher",
   "homepage": "https://github.com/Dduvacher/molecular-parser",
