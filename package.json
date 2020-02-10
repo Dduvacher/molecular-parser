@@ -1,6 +1,6 @@
 {
   "name": "molecular-decomposer",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Parsed a molecule (string) and give details elements count as an object.",
   "main": "./dist/index.js",
   "scripts": {
